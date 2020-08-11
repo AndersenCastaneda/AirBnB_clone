@@ -17,7 +17,7 @@ from models.user import User
 from console import HBNBCommand
 from unittest.mock import patch
 from io import StringIO
-from os.path as path
+import os.path as path
 import os
 
 
